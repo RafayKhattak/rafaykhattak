@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafay Khattak - [website] 👋
 
-## Software and Web Developer | Graphic Designer | Cyber Security | Amazon FBA
+## Software & Web Developer | Cyber Security | Future Film-maker
 - 🔭 I’m currently working on a [Lecture Horizon][LectureHorizon]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -41,7 +41,7 @@
 
 [LectureHorizon]: https://lecturehorizon.com
 [website]: https://rafaykhattak.com
-[twitter]: https://twitter.com/itsrafaykhattak
+[twitter]: https://twitter.com/0xRafay
 [youtube]: https://youtube.com/rafaykhattak
 [instagram]: https://instagram.com/rafaykhattak
 [linkedin]: https://linkedin.com/in/rafaykhattak
