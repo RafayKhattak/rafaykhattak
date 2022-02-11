@@ -1,10 +1,10 @@
 ### Hi there, I'm Rafay Khattak - [website] 👋
 
 ## Software & Web Developer | Cyber Security | Future Film-maker
-- 🔭 I’m currently working on a [Lecture Horizon][LectureHorizon]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on [Lecture Horizon][LectureHorizon]!
+- 🌱 I’m currently learning C++ and JavaScript.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun facts: I love to play chess and my favourite genre is horror.
 
 ### Connect with me:
@@ -40,7 +40,7 @@
 <br />
 
 [LectureHorizon]: https://lecturehorizon.com
-[website]: https://rafaykhattak.com
+[website]: https://www.rafaykhattak.com/
 [twitter]: https://twitter.com/0xRafay
 [youtube]: https://youtube.com/rafaykhattak
 [instagram]: https://instagram.com/rafaykhattak
