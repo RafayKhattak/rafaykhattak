@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafay Khattak - [website] 👋
 
-## Software & Web Developer | Cyber Security | Future Film-maker
+## Cyber Security Enthusiast | C++ | JavaScript | Amazon VA
 - 🔭 I’m currently working on [Lecture Horizon][LectureHorizon]!
 - 🌱 I’m currently learning C++ and JavaScript.
 - 👯 I’m looking forward to becoming good at C++ and JavaScript.
