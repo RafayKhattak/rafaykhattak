@@ -3,9 +3,9 @@
 ## Software & Web Developer | Cyber Security | Future Film-maker
 - 🔭 I’m currently working on [Lecture Horizon][LectureHorizon]!
 - 🌱 I’m currently learning C++ and JavaScript.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun facts: I love to play chess and my favourite genre is horror.
+- 👯 I’m looking forward to becoming good at C++ and JavaScript.
+- 🥅 2022 Goals: Practice a lot of competitive problems.
+- ⚡ Fun facts: I love to play video games and I want to become a film maker.
 
 ### Connect with me:
 
