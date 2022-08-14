@@ -1,4 +1,4 @@
-### Hi there, I'm Rafay Khattak - [website] 👋
+### Hi there, I'm Rafay Khattak 👋
 
 ## Full-Stack Dev | Data Structures & Algorithms 
 - 🌱 I’m learning Full-Stack development and Data Structures & Algorithms.
