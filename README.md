@@ -1,11 +1,10 @@
 ### Hi there, I'm Rafay Khattak - [website] 👋
 
-## Cyber Security Enthusiast | C++ | JavaScript 
+## Full-Stack Dev | Data Structures & Algorithms 
 - 🔭 I’m currently working on [Lecture Horizon][LectureHorizon]!
-- 🌱 I’m currently learning C++ and JavaScript.
-- 👯 I’m looking forward to becoming good at C++ and JavaScript.
-- 🥅 2022 Goals: Practice a lot of competitive problems.
-- ⚡ Fun facts: I love to play video games and I want to become a film maker.
+- 🌱 I’m currently learning Full-Stack development and Data Structures & Algorithms.
+- 👯 I’m looking forward to becoming good at Full-Stack engineer and Competitive Programmer.
+- ⚡ Fun facts: I have a huge passion for film-making.
 
 ### Connect with me:
 
@@ -21,7 +20,6 @@
 
 [LectureHorizon]: https://lecturehorizon.com
 [website]: https://www.rafaykhattak.com/
-[twitter]: https://twitter.com/0xRafay
 [youtube]: https://youtube.com/rafaykhattak
 [instagram]: https://instagram.com/rafaykhattak
 [linkedin]: https://linkedin.com/in/rafaykhattak
