@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)]
+![MasterHead](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)
 <h1 align="center">Hi 👋, I'm Rafay Khattak</h1>
 <h3 align="center">Full Stack Web | ML/AI | Cybersecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
