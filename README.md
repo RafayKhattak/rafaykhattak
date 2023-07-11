@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)
 <h1 align="center">Hi <img width ="30" src = "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">, I'm Rafay Khattak</h1>
-<h3 align="center">Full Stack Web | ML/AI | Cybersecurity</h3>
+<h3 align="center">Full Stack Web <img width ="30" src ="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif"> | ML/AI <img width ="30" src ="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif"> | Cybersecurity <img width ="30" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTltZjh5dDl0N2F6bnh6NWsxaWhlNnFwa2xlc3hlYmtnd2V3ZTNwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/077i6AULCXc0FKTj9s/giphy.gif"></h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaykhattak&label=Profile%20views&color=0e75b6&style=flat" alt="rafaykhattak" /> </p>
