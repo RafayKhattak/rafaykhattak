@@ -2,7 +2,9 @@
 <h1 align="center">Hi <img width ="30" src = "https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">, I'm Rafay Khattak</h1>
 
 
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaykhattak&label=Profile%20views&color=0e75b6&style=flat" alt="rafaykhattak" /> </p>
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **rafaykhankhattak@gmail.com**
